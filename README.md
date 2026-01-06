@@ -218,3 +218,4 @@ SMTP_PASSWORD=<你的邮箱密码或应用密码>
 **用心为武林英雄玩家打造 ❤️**
 
 [Star](https://github.com/yourusername/heroweb/stargazers) · [Fork](https://github.com/yourusername/heroweb/fork) · [提问题](https://github.com/yourusername/heroweb/issues)
+# Social preview image
