@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+logs/
+*.env
+*.env.*
+*.egg-info/
+*.egg
+*.log
+.DS_Store
+
+# Build output
+dist/
+build/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.cursor/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.bak
+*.swp
+*.tmp 
+*workspace*
