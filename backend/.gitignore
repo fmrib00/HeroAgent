@@ -8,7 +8,7 @@ venv/
 ENV/
 logs/
 *.env
-*.env.*
+!.env.example
 *.egg-info/
 *.egg
 *.log

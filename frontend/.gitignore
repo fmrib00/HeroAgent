@@ -21,3 +21,4 @@ Thumbs.db
 *.swp
 *.tmp
 .env
+!.env.example
